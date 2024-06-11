@@ -1,6 +1,6 @@
 # Dynamic Form Generator
 
-This repository contains a Google Apps Script for dynamically creating Google Forms based on parameters such as a unique identifier, table name, and recipient email address. The script automates the process of form creation, submission handling, and data storage in Google Sheets.
+This repository contains a Google Apps Script for dynamically creating Google Forms based on Vault.gs data tables. The script automates the process of form creation, submission handling, and data storage using Vault.gs.
 
 ## Overview
 
